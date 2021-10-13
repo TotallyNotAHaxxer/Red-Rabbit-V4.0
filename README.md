@@ -13,6 +13,14 @@ i am trying to make a version 4 of Red-Rabbit to finally peace this project off 
 `retriving information on a LONG anf fragmented URL`<br>
 `host grabbing`<br>
 `many more golang scripts`<br>
+`rust host scans`<br>
+`url and domain hunting`<br>
+`bash dorker for dorking URL's`<br>
+`see if a domain has been blacklisted`<br>
+`usage of proxies to return server GET/POST/DELETE Requests`<br>
+`usage of NASM-64 Bit architec Assembly for hardware nad software specifications`<br>
+`more usage of perl within string conversions and hexidecimal formatting`<br>
+`Idea of using Lua or R scripting for database hold queries`<br>
 <br>
 You may be wondering, why so much go? <br>
 
